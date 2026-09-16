@@ -1,0 +1,5 @@
+print('my name is zee')
+print(30)
+print('jaipur')
+print('chole bhature')
+print(25+75)

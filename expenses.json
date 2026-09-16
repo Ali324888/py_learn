@@ -1,0 +1,14 @@
+[
+    {
+        "name": "printing",
+        "amount": 1800.0,
+        "category": "stationary",
+        "date": "2026-09-11"
+    },
+    {
+        "name": "bus ticket",
+        "amount": 800.0,
+        "category": "travel",
+        "date": "2026-09-11"
+    }
+]
